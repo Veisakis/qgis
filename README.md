@@ -1,2 +1,1 @@
-# qgis
-My custom QGIS Plugins.
+A repository for storing my custom QGIS Plugins.
