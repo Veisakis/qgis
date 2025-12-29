@@ -1,3 +1,3 @@
-A repository for storing my QGIS scripts that I use daily.
+I have created some small Python scripts to aid my daily routines in QGIS.
 
-You can use them too!
+You can check them out and use them as you please!
