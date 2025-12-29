@@ -1,3 +1,3 @@
-I have created some small Python scripts to aid my daily routines in QGIS.
+A collection of lightweight Python scripts designed to assist with daily QGIS workflows.
 
-You can check them out and use them as you please!
+Feel free to check them out, use them in your own work, and modify them to suit your needs.
